@@ -5,5 +5,5 @@ static_sites:
   github:
     branch: main
     deploy_on_push: true
-    repo: digitalocean/sample-jekyll
-  name: sample-jekyll
+    repo: darkcheyenne/eberlimeblog
+  name: eberlimeblog 
