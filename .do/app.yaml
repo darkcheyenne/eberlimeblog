@@ -1,4 +1,4 @@
-name: sample-jekyll
+name: eberlimeblog
 static_sites:
 - build_command: bundle exec jekyll build -d ./public
   environment_slug: jekyll
