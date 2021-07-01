@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wilkommen auf eberli.me"
+title:  "Anwendungsmöglichkeiten für einen Synology NAS"
 date:   2015-01-03 11:55:00 +0100
 categories: Synology
 ---
