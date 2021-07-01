@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Erfahrungsbericht: App Entwicklung für Windows 8 Store"
-date:   2021-06-29 11:55:00 +0100
+date:   2013-08-30 11:55:00 +0100
 categories: Windows
 ---
 # Theoretische Grundlagen
