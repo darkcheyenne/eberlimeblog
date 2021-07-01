@@ -7,11 +7,11 @@ categories: Raspberry
 # Theoretische Grundlagen
 Java Enterprise Edition, oder JavaEE, ist eine Erweiterung zu Java. Generell ist JavaEE auf die Erstellung von Webanwendungen und Webdiensten ausgerichtet. Dabei bietet JavaEE hauptsächlich Funktionen, welche den Aufwand zur Erstellung einer Serversoftware verringern.
 
-Auf der Seite der Darstellungsschicht kann das im 2006 eingeführte Java Server Faces(JSF) viele gängige HTML Konstrukte aus Objekten oder Listen generieren. Weiterhin unterstützt Java Server Faces(JSF) den Programmierer mit einem halbautomatischen Datenaustausch zwischen Browser und Server via Ajax.
+Auf der Seite der **Darstellungsschicht** kann das im 2006 eingeführte Java Server Faces(JSF) viele gängige HTML Konstrukte aus Objekten oder Listen generieren. Weiterhin unterstützt Java Server Faces(JSF) den Programmierer mit einem halbautomatischen Datenaustausch zwischen Browser und Server via Ajax.
 
-Auf der Ebene der der Geschäftslogik bieten Enterprise Java Beans(EJB) eine Möglichkeit, benötigte externe Klassen erst bei Bedarf automatisch zu instanzieren und diese zwischen Sitzungen von unterschiedlichen Benutzung zu teilen.
+Auf der Ebene der der **Geschäftslogik** bieten Enterprise Java Beans(EJB) eine Möglichkeit, benötigte externe Klassen erst bei Bedarf automatisch zu instanzieren und diese zwischen Sitzungen von unterschiedlichen Benutzung zu teilen.
 
-Auf der Ebene der Datenhaltung bietet das Java Persistence API(JPA) eine Möglichkeit zur automatischen Datenhaltung auf einer Datenbank. Die Daten werden dabei direkt über Java Objekte(Entites) definiert und die Java Persistence API(JPA) kümmert sich dann um die Umsetzung dieser Objekte auf die Datenbank.
+Auf der Ebene der **Datenhaltung** bietet das Java Persistence API(JPA) eine Möglichkeit zur automatischen Datenhaltung auf einer Datenbank. Die Daten werden dabei direkt über Java Objekte(Entites) definiert und die Java Persistence API(JPA) kümmert sich dann um die Umsetzung dieser Objekte auf die Datenbank.
 
 Zum Betrieb einer JavaEE Anwendung benötigt man einen JavaEE fähigen Webserver. Die Referenzimplementation eines solchen Webservers ist GlassFish 4.
 
@@ -38,14 +38,14 @@ Was mir relativ gut gefallen hat ist das (kostenpflichtige) Videotraining der Fi
 ## Stunden 5-10 | Planung
 Aufgrund des Aufbaus einer JavaEE Anwendung war gibt es bereits von Grund auf folgende Unterteilung:
 
-Darstellung (XHTML)
-Geschäftslogik (Java)
+* Darstellung (XHTML)
+* Geschäftslogik (Java)
 Aufbauend auf dieser Grundunterteilung habe ich mich für folgende Unterteilung entschieden:
 
-Darstellung (XHTML)
-Darstellungslogik (Java, Sitzungsorientiert)
-Dienste (Java, Singelton)
-Datendefinition (Java)
+* Darstellung (XHTML)
+* Darstellungslogik (Java, Sitzungsorientiert)
+* Dienste (Java, Singelton)
+* Datendefinition (Java)
 Generell kann ich feststellen, dass die unterteilen von Programmcode in sinnvolle Schichten mit JavaEE gefördert wird.
 
 ## Stunden 11-50 | Entwicklung
