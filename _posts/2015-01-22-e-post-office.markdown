@@ -20,6 +20,7 @@ Erreichen möchte Sie dies mit 2-Diensten:
 Preistabelle der Post aus dem offiziellen Fact-Sheet (Stand: 20. Januar 2015)
 
 # Selbstversuch
+
 ## Anmeldung
 In einem ersten Schritt habe ich mich auf der Webseite der Post für das kostenlose Grundpaket der Swiss Post Box angemeldet. Für das E-Post Office konnte ich den gleichen Account wie für die Web-Stamps verweden.
 
