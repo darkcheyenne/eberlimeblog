@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "Windows 10"
+date:   2015-02-26 10:05:00 +0100
+categories: Windows
+---
+# Einleitung
+
+Der Anlass für diesen Artikel ist eine Kette von Ereignissen, welche sich in kurzen Worte so abgespielt hat:
+
+Ich habe mir die Microsoft Präsentation zu Windows 10 angesehen, was mich dazu motiviert hat die Technical Preview von Windows 10 herunterzuladen und mich dann mit erstaunen feststellen lassen hat, dass Windows 10 gar nicht so übel ist.
+
+# Hintergrund
+
+Um der Aussage oberhalt Kontext zu geben möchte ich kurz über meine Geschichte mit Windows sprechen.
+
+Ich hatte auf meinem ersten PC Windows 98, später Windows 98 SE, Windows Millenium und dann für viele Jahre Windows XP.
+Im 2008 hat mich die Verzweiflung über Windows Vista dazu bewegt Mac OS inform eines MacBook Air 2008 Revision B zu testen.
+Seither setzte ich privat mit der Ausnahme eines Spiele-PCs ausschliesslich Macs ein.
+
+Ich habe mich Mitte 2013 mit dem neuen Metro Design von Windows 8 beschäftigt und in einem anderen Artikel das IDE und die Performance des UIs gelobt. Mein Hauptmängel an Windows 8 war jedoch, dass es keine gute Benutzerführung für Desktop-PCs hat und es gibt nicht mal alle Microsoft Produkte für die Touch-Oberfläche.
+
+# Eindrücke zu Windows 10
+
+## Desktop
+
+![Bild](/assets/86b0f-screenshot2015-02-0116.png)
+
+Der Desktop macht einen guten Eindruck und hat bedankenswerterweise das grelle, bunte Design von Windows Vista ganz hinter sich gelassen.
+
+## Startleiste
+
+![Bild](/assets/b2f88-screenshot2015-02-0116_003.png)
+
+Die Startleiste ist vorallem auf Desktop-PCs sehr willkommen und macht optisch einen guten Eindruck. Es hilft bei der Arbeit auf dem Desktop ungemein nicht jedes mal in eine andere Oberfläche geworfen zu werden.
+
+Etwas was mir nicht gefällt an der neuen Startleiste ist, dass diese sehr verschwenderisch mit Platz umgeht. Ich würde mir die Option wünschen links den Abstand zwischen den Einträgen und rechts die grösse der Kacheln einstellen zu können.
+
+## Suche
+
+![Bild](/assets/68893-screenshot2015-02-0116_004.png)
+
+Die Suche funktioniert gut, geht aber wie das Startmenu sehr verschwenderisch mit Platz um. Interessant ist noch das in der Suche angegeben wird, ob es sich um eine Windows oder eine Metro-Anwendung handelt.
+
+## Mitteilungen
+
+![Bild](/assets/2e1d0-a.png)
+
+Eine neue Funktion von Windows 10 ist eine Mitteilungsleiste am rechten Rand welche alle Mitteilungspopups die von Anwendungen gesendet werden aufzeichnet und darstellt. Mac OS hat verfügt seit einigen Generationen ebenfalls über einen solche Leiste, ich kann jedoch aus Erfahrung sagen, dass ich unter Mac OS nie Verwendung dafür hatte und aus diesem Grund nur moderat Begeistert bin.
+
+## Anwendungen
+
+![Bild](/assets/c3f4c-screenshot2015-02-0116_007.png)
+![Bild](/assets/3d68f-screenshot2015-02-0116_005.png)
+![Bild](/assets/df954-screenshot2015-02-0116_002.png)
+
+Metro Anwendungen können jetzt neu auch im Fenster ausgeführt werden. Dirch diese klein klingen Anpassunge fühlt sich vorallem das Arbeiten an einer klassischen Desktopumgebung viel flüssiger an. Die Metro-Anwendungen lassen sich dabei einfach wie Fensteranwendungen handhaben.
+
+## Fazit
+
+Anmekung: Ich hatte drei Tage Bedenkzeit nachdem ich die Zeilen oberhalb verfasst habe bis ich erkannt habe, was der durchaus positive Eindruck ausmacht den Windows 10 hinterlassen hat.
+
+Windows 10 macht, im Gegensatz zu gewissen Vorgängern nichts falsch. Es wird keine neue, halb durchdachte Technologie eingeführt welche das Arbeiten in einer normalen Desktopumgebung stört, die Performance frisst, ganz neue Arbeitsabläufe erfordert oder 3/4 der alten Geräte unbrauchbar macht.
+
+Es ist eine Verbesserung aller in Windows 8 eingeführten Funktionen, bietet den gleichen Komfor wie die bisherigen Betriebsysteme im Desktopbetrieb und macht optisch einen modernen Eindruck (Ob man das mag darf jeder selbst für sich entscheiden)
+
+Ich denke nicht, dass ich für Windows 10 auf einen PC umsteige. Ich bin aber im Hinblick auf meinen Windows PC auf der Arbeit froh um Windows 10.3
