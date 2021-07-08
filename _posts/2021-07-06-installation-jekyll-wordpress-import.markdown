@@ -14,7 +14,7 @@ Installation von Devel-Tools:
 
 Installation von Jekyll Import:
 
-    gem install jekyll-import
+    gem install jekyll-import hpricot
     
 Start von Import:
 
