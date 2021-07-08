@@ -14,7 +14,7 @@ Installation von Devel-Tools:
 
 Installation von Jekyll Import:
 
-    gem install jekyll-import hpricot
+    gem install jekyll-import hpricot open_uri_redirections open_uri_redirections
     
 Start von Import:
 
